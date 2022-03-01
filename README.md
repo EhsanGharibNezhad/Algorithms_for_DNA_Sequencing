@@ -13,22 +13,16 @@
 </p>
 
 
+*Week 1: DNA sequencing, strings and matching:*\
+*Week 2: Preprocessing, indexing and approximate matching:*\
+*Week 3: Edit distance, assembly, overlaps*\
+*Week 4: Algorithms for assembly*\
+
 
 ---
 # <a id = 'RepoStructure'> Repo Structure </b></a>
-## notebooks/ <br />
+## notebook/ <br />
 
-*Week 1: DNA sequencing, strings and matching:*\
-&nbsp; &nbsp; &nbsp; __ [1__Exploratory_Data_Analysis_EDA.ipynb](notebooks/1__Exploratory_Data_Analysis_EDA.ipynb)<br />
-
-*Week 2: Preprocessing, indexing and approximate matching:*\
-&nbsp; &nbsp; &nbsp; __ [2__Generate_kmer_dataset.ipynb](notebooks/2__Generate_kmer_dataset.ipynb)<br />
-
-*Week 3: Edit distance, assembly, overlaps*\
-&nbsp; &nbsp; &nbsp; __ [3__KNeighborsClassifier.ipynb](notebooks/3__KNeighborsClassifier.ipynb)<br />
-&nbsp; &nbsp; &nbsp; __ [4__RandomForest.ipynb](notebooks/4__RandomForest.ipynb)<br />
-
-
-*Week 4: Algorithms for assembly*\
-&nbsp; &nbsp; &nbsp; __ [5__FeedForward_Neural_Networks.ipynb](notebooks/5__FeedForward_Neural_Networks.ipynb)<br />
+*Notebook including tutorial, algorithms, their application to DNA sequencing*\
+&nbsp; &nbsp; &nbsp; __ [Algorithms_for_DNA_Sequencing__Tutorial_Functions.ipynb](notebooks/Algorithms_for_DNA_Sequencing__Tutorial_Functions.ipynb)<br />
 />

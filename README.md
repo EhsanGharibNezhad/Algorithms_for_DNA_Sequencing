@@ -1,5 +1,5 @@
 # Algorithms for DNA Sequencing
-## Course materials, functions, and detailed tutorials collected from Johns Hopkins University and other resources 
+#### Course materials, functions, and detailed tutorials collected from Johns Hopkins University and other resources 
 
 ###  Investigator: Ehsan Gharib-Nezhad
 

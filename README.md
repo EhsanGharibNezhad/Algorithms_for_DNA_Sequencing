@@ -23,4 +23,4 @@
 [Algorithms_for_DNA_Sequencing__Tutorial_Functions.ipynb](notebooks/Algorithms_for_DNA_Sequencing__Tutorial_Functions.ipynb)<br />
 
 
-<img width="960" alt="image" src="https://user-images.githubusercontent.com/22139918/156111516-98d5f6b0-7ae9-4678-903e-87349b3d45c9.png">
+<img width="500" alt="image" src="https://user-images.githubusercontent.com/22139918/156111516-98d5f6b0-7ae9-4678-903e-87349b3d45c9.png">

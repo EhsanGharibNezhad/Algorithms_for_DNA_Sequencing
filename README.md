@@ -19,10 +19,6 @@
 *Week 4: Algorithms for assembly*\
 
 
----
-# <a id = 'RepoStructure'> Repo Structure </b></a>
-## notebook/ <br />
-
-*Notebook including tutorial, algorithms, their application to DNA sequencing*\
-&nbsp; &nbsp; &nbsp; __ [Algorithms_for_DNA_Sequencing__Tutorial_Functions.ipynb](notebooks/Algorithms_for_DNA_Sequencing__Tutorial_Functions.ipynb)<br />
+*For the course tutorials, comcepts, algorithms, their application to DNA sequencing, see the following notebook:*\
+[Algorithms_for_DNA_Sequencing__Tutorial_Functions.ipynb](notebook/Algorithms_for_DNA_Sequencing__Tutorial_Functions.ipynb)<br />
 />
